@@ -1,0 +1,29 @@
+{
+  "name": "project_3",
+  "version": "1.0.0",
+  "description": "Employees login system",
+  "main": "server.js",
+  "repository": "git@github.com:robertamoah/project_3.git",
+  "author": "Robert Pittman <robertamoah271@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/body-parser": "^1.17.1",
+    "@types/express-promise-router": "^3.0.0",
+    "@types/joi": "^14.3.4",
+    "@types/mongoose": "^5.5.30",
+    "@types/passport": "^1.0.1",
+    "@types/passport-facebook-token": "^0.4.33",
+    "@types/passport-jwt": "^3.0.3",
+    "@types/passport-local": "^1.0.33",
+    "body-parser": "^1.19.0",
+    "express-promise-router": "^3.0.3",
+    "joi": "^14.3.1",
+    "mongoose": "^5.7.9",
+    "morgan": "^1.9.1",
+    "passport": "^0.4.0",
+    "passport-facebook-token": "^3.3.0",
+    "passport-google-plus-token": "^2.1.0",
+    "passport-jwt": "^4.0.0",
+    "passport-local": "^1.0.0"
+  }
+}
