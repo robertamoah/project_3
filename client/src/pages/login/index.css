@@ -1,0 +1,25 @@
+html{
+    background-color: rgb(219, 219, 219);
+    
+}
+
+.nav_top{
+    /* margin-top: 100px; */
+    height: 100px;
+    /* background-color: blue; */
+}
+
+.center1{
+    
+    height: 500px;
+    width: 500px;
+
+    /* background-color: blue; */
+    margin: auto;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    /* border: 2px solid green; */
+    padding: 10px;
+
+}
